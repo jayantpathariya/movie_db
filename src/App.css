@@ -109,7 +109,7 @@ body {
   width: 100%;
   height: 96vh;
   object-fit: cover;
-  opacity: 50%;
+  opacity: 1;
 }
 .poster-container {
   width: 300px;
